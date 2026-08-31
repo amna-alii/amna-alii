@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
  I’m a Bachelor’s student in Artificial Intelligence passionate about building practical solutions with AI and technology. I enjoy working with Python, Machine Learning, Data Analytics, and Web Development while continuously learning and exploring new technologies. I love turning ideas into projects and improving my skills through hands-on experience.<br>
 
 
