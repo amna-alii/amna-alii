@@ -1,5 +1,5 @@
 #  About Me:
- I’m currently working on Machine Learning and AI projects<br> I’m looking to collaborate on AI, Machine Learning, and beginner-friendly open-source projects<br> I’m looking for help with Machine Learning, AI projects, and improving my development skills<br> I’m currently learning Machine Learning, Deep Learning, Data Analytics, Git & GitHub, and Web Development<br>💬 Ask me about Artificial Intelligence, Machine Learning, Python, and my academic projects<br> Fun fact: I love turning ideas into practical projects! 
+ I’m a Bachelor’s student in Artificial Intelligence passionate about building practical solutions with AI and technology. I enjoy working with Python, Machine Learning, Data Analytics, and Web Development while continuously learning and exploring new technologies. I love turning ideas into projects and improving my skills through hands-on experience.
 
 
 ## 🌐 Socials:
